@@ -1,0 +1,60 @@
+diff --git a/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_armv7/BoringSSL-GRPC.framework/Modules/module.modulemap b/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_armv7/BoringSSL-GRPC.framework/Modules/module.modulemap
+index b8585f0..ade4ac1 100644
+--- a/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_armv7/BoringSSL-GRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_armv7/BoringSSL-GRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module BoringSSL-GRPC {
++framework module "BoringSSL-GRPC" {
+ umbrella header "umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_i386_x86_64-simulator/BoringSSL-GRPC.framework/Modules/module.modulemap b/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_i386_x86_64-simulator/BoringSSL-GRPC.framework/Modules/module.modulemap
+index b8585f0..ade4ac1 100644
+--- a/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_i386_x86_64-simulator/BoringSSL-GRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_i386_x86_64-simulator/BoringSSL-GRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module BoringSSL-GRPC {
++framework module "BoringSSL-GRPC" {
+ umbrella header "umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_x86_64-maccatalyst/BoringSSL-GRPC.framework/Modules/module.modulemap b/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_x86_64-maccatalyst/BoringSSL-GRPC.framework/Modules/module.modulemap
+index b8585f0..ade4ac1 100644
+--- a/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_x86_64-maccatalyst/BoringSSL-GRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/BoringSSL-GRPC.xcframework/ios-arm64_x86_64-maccatalyst/BoringSSL-GRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module BoringSSL-GRPC {
++framework module "BoringSSL-GRPC" {
+ umbrella header "umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/BoringSSL-GRPC.xcframework/macos-arm64_x86_64/BoringSSL-GRPC.framework/Modules/module.modulemap b/FirebaseFirestore/BoringSSL-GRPC.xcframework/macos-arm64_x86_64/BoringSSL-GRPC.framework/Modules/module.modulemap
+index b8585f0..ade4ac1 100644
+--- a/FirebaseFirestore/BoringSSL-GRPC.xcframework/macos-arm64_x86_64/BoringSSL-GRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/BoringSSL-GRPC.xcframework/macos-arm64_x86_64/BoringSSL-GRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module BoringSSL-GRPC {
++framework module "BoringSSL-GRPC" {
+ umbrella header "umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/BoringSSL-GRPC.xcframework/tvos-arm64/BoringSSL-GRPC.framework/Modules/module.modulemap b/FirebaseFirestore/BoringSSL-GRPC.xcframework/tvos-arm64/BoringSSL-GRPC.framework/Modules/module.modulemap
+index b8585f0..ade4ac1 100644
+--- a/FirebaseFirestore/BoringSSL-GRPC.xcframework/tvos-arm64/BoringSSL-GRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/BoringSSL-GRPC.xcframework/tvos-arm64/BoringSSL-GRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module BoringSSL-GRPC {
++framework module "BoringSSL-GRPC" {
+ umbrella header "umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/BoringSSL-GRPC.xcframework/tvos-arm64_x86_64-simulator/BoringSSL-GRPC.framework/Modules/module.modulemap b/FirebaseFirestore/BoringSSL-GRPC.xcframework/tvos-arm64_x86_64-simulator/BoringSSL-GRPC.framework/Modules/module.modulemap
+index b8585f0..ade4ac1 100644
+--- a/FirebaseFirestore/BoringSSL-GRPC.xcframework/tvos-arm64_x86_64-simulator/BoringSSL-GRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/BoringSSL-GRPC.xcframework/tvos-arm64_x86_64-simulator/BoringSSL-GRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module BoringSSL-GRPC {
++framework module "BoringSSL-GRPC" {
+ umbrella header "umbrella.h"
+ export *
+ module * { export * }

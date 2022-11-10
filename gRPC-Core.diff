@@ -1,0 +1,60 @@
+diff --git a/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_armv7/gRPC-Core.framework/Modules/module.modulemap b/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_armv7/gRPC-Core.framework/Modules/module.modulemap
+index 047a664..2aaad27 100644
+--- a/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_armv7/gRPC-Core.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_armv7/gRPC-Core.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module gRPC-Core {
++framework module "gRPC-Core" {
+ umbrella header "gRPC-Core-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_i386_x86_64-simulator/gRPC-Core.framework/Modules/module.modulemap b/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_i386_x86_64-simulator/gRPC-Core.framework/Modules/module.modulemap
+index 047a664..2aaad27 100644
+--- a/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_i386_x86_64-simulator/gRPC-Core.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_i386_x86_64-simulator/gRPC-Core.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module gRPC-Core {
++framework module "gRPC-Core" {
+ umbrella header "gRPC-Core-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_x86_64-maccatalyst/gRPC-Core.framework/Modules/module.modulemap b/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_x86_64-maccatalyst/gRPC-Core.framework/Modules/module.modulemap
+index 047a664..2aaad27 100644
+--- a/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_x86_64-maccatalyst/gRPC-Core.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/gRPC-Core.xcframework/ios-arm64_x86_64-maccatalyst/gRPC-Core.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module gRPC-Core {
++framework module "gRPC-Core" {
+ umbrella header "gRPC-Core-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/gRPC-Core.xcframework/macos-arm64_x86_64/gRPC-Core.framework/Modules/module.modulemap b/FirebaseFirestore/gRPC-Core.xcframework/macos-arm64_x86_64/gRPC-Core.framework/Modules/module.modulemap
+index 047a664..2aaad27 100644
+--- a/FirebaseFirestore/gRPC-Core.xcframework/macos-arm64_x86_64/gRPC-Core.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/gRPC-Core.xcframework/macos-arm64_x86_64/gRPC-Core.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module gRPC-Core {
++framework module "gRPC-Core" {
+ umbrella header "gRPC-Core-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/gRPC-Core.xcframework/tvos-arm64/gRPC-Core.framework/Modules/module.modulemap b/FirebaseFirestore/gRPC-Core.xcframework/tvos-arm64/gRPC-Core.framework/Modules/module.modulemap
+index 047a664..2aaad27 100644
+--- a/FirebaseFirestore/gRPC-Core.xcframework/tvos-arm64/gRPC-Core.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/gRPC-Core.xcframework/tvos-arm64/gRPC-Core.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module gRPC-Core {
++framework module "gRPC-Core" {
+ umbrella header "gRPC-Core-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/gRPC-Core.xcframework/tvos-arm64_x86_64-simulator/gRPC-Core.framework/Modules/module.modulemap b/FirebaseFirestore/gRPC-Core.xcframework/tvos-arm64_x86_64-simulator/gRPC-Core.framework/Modules/module.modulemap
+index 047a664..2aaad27 100644
+--- a/FirebaseFirestore/gRPC-Core.xcframework/tvos-arm64_x86_64-simulator/gRPC-Core.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/gRPC-Core.xcframework/tvos-arm64_x86_64-simulator/gRPC-Core.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module gRPC-Core {
++framework module "gRPC-Core" {
+ umbrella header "gRPC-Core-umbrella.h"
+ export *
+ module * { export * }

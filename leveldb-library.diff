@@ -1,0 +1,120 @@
+diff --git a/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_armv7/leveldb-library.framework/Modules/module.modulemap b/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_armv7/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_armv7/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_armv7/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_i386_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap b/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_i386_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_i386_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_i386_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_x86_64-maccatalyst/leveldb-library.framework/Modules/module.modulemap b/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_x86_64-maccatalyst/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_x86_64-maccatalyst/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseDatabase/leveldb-library.xcframework/ios-arm64_x86_64-maccatalyst/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseDatabase/leveldb-library.xcframework/macos-arm64_x86_64/leveldb-library.framework/Modules/module.modulemap b/FirebaseDatabase/leveldb-library.xcframework/macos-arm64_x86_64/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseDatabase/leveldb-library.xcframework/macos-arm64_x86_64/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseDatabase/leveldb-library.xcframework/macos-arm64_x86_64/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseDatabase/leveldb-library.xcframework/tvos-arm64/leveldb-library.framework/Modules/module.modulemap b/FirebaseDatabase/leveldb-library.xcframework/tvos-arm64/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseDatabase/leveldb-library.xcframework/tvos-arm64/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseDatabase/leveldb-library.xcframework/tvos-arm64/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseDatabase/leveldb-library.xcframework/tvos-arm64_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap b/FirebaseDatabase/leveldb-library.xcframework/tvos-arm64_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseDatabase/leveldb-library.xcframework/tvos-arm64_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseDatabase/leveldb-library.xcframework/tvos-arm64_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_armv7/leveldb-library.framework/Modules/module.modulemap b/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_armv7/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_armv7/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_armv7/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_i386_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap b/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_i386_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_i386_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_i386_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_x86_64-maccatalyst/leveldb-library.framework/Modules/module.modulemap b/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_x86_64-maccatalyst/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_x86_64-maccatalyst/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/leveldb-library.xcframework/ios-arm64_x86_64-maccatalyst/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/leveldb-library.xcframework/macos-arm64_x86_64/leveldb-library.framework/Modules/module.modulemap b/FirebaseFirestore/leveldb-library.xcframework/macos-arm64_x86_64/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseFirestore/leveldb-library.xcframework/macos-arm64_x86_64/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/leveldb-library.xcframework/macos-arm64_x86_64/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/leveldb-library.xcframework/tvos-arm64/leveldb-library.framework/Modules/module.modulemap b/FirebaseFirestore/leveldb-library.xcframework/tvos-arm64/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseFirestore/leveldb-library.xcframework/tvos-arm64/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/leveldb-library.xcframework/tvos-arm64/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/leveldb-library.xcframework/tvos-arm64_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap b/FirebaseFirestore/leveldb-library.xcframework/tvos-arm64_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
+index b7d7e9c..ee6cd1d 100644
+--- a/FirebaseFirestore/leveldb-library.xcframework/tvos-arm64_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/leveldb-library.xcframework/tvos-arm64_x86_64-simulator/leveldb-library.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module leveldb-library {
++framework module "leveldb-library" {
+ umbrella header "leveldb-library-umbrella.h"
+ export *
+ module * { export * }

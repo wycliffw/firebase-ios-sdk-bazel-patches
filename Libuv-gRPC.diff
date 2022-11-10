@@ -1,0 +1,60 @@
+diff --git a/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_armv7/Libuv-gRPC.framework/Modules/module.modulemap b/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_armv7/Libuv-gRPC.framework/Modules/module.modulemap
+index b73d3f3..289091e 100644
+--- a/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_armv7/Libuv-gRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_armv7/Libuv-gRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module Libuv-gRPC {
++framework module "Libuv-gRPC" {
+ umbrella header "Libuv-gRPC-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_i386_x86_64-simulator/Libuv-gRPC.framework/Modules/module.modulemap b/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_i386_x86_64-simulator/Libuv-gRPC.framework/Modules/module.modulemap
+index b73d3f3..289091e 100644
+--- a/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_i386_x86_64-simulator/Libuv-gRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_i386_x86_64-simulator/Libuv-gRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module Libuv-gRPC {
++framework module "Libuv-gRPC" {
+ umbrella header "Libuv-gRPC-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_x86_64-maccatalyst/Libuv-gRPC.framework/Modules/module.modulemap b/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_x86_64-maccatalyst/Libuv-gRPC.framework/Modules/module.modulemap
+index b73d3f3..289091e 100644
+--- a/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_x86_64-maccatalyst/Libuv-gRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/Libuv-gRPC.xcframework/ios-arm64_x86_64-maccatalyst/Libuv-gRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module Libuv-gRPC {
++framework module "Libuv-gRPC" {
+ umbrella header "Libuv-gRPC-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/Libuv-gRPC.xcframework/macos-arm64_x86_64/Libuv-gRPC.framework/Modules/module.modulemap b/FirebaseFirestore/Libuv-gRPC.xcframework/macos-arm64_x86_64/Libuv-gRPC.framework/Modules/module.modulemap
+index b73d3f3..289091e 100644
+--- a/FirebaseFirestore/Libuv-gRPC.xcframework/macos-arm64_x86_64/Libuv-gRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/Libuv-gRPC.xcframework/macos-arm64_x86_64/Libuv-gRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module Libuv-gRPC {
++framework module "Libuv-gRPC" {
+ umbrella header "Libuv-gRPC-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/Libuv-gRPC.xcframework/tvos-arm64/Libuv-gRPC.framework/Modules/module.modulemap b/FirebaseFirestore/Libuv-gRPC.xcframework/tvos-arm64/Libuv-gRPC.framework/Modules/module.modulemap
+index b73d3f3..289091e 100644
+--- a/FirebaseFirestore/Libuv-gRPC.xcframework/tvos-arm64/Libuv-gRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/Libuv-gRPC.xcframework/tvos-arm64/Libuv-gRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module Libuv-gRPC {
++framework module "Libuv-gRPC" {
+ umbrella header "Libuv-gRPC-umbrella.h"
+ export *
+ module * { export * }
+diff --git a/FirebaseFirestore/Libuv-gRPC.xcframework/tvos-arm64_x86_64-simulator/Libuv-gRPC.framework/Modules/module.modulemap b/FirebaseFirestore/Libuv-gRPC.xcframework/tvos-arm64_x86_64-simulator/Libuv-gRPC.framework/Modules/module.modulemap
+index b73d3f3..289091e 100644
+--- a/FirebaseFirestore/Libuv-gRPC.xcframework/tvos-arm64_x86_64-simulator/Libuv-gRPC.framework/Modules/module.modulemap
++++ b/FirebaseFirestore/Libuv-gRPC.xcframework/tvos-arm64_x86_64-simulator/Libuv-gRPC.framework/Modules/module.modulemap
+@@ -1,4 +1,4 @@
+-framework module Libuv-gRPC {
++framework module "Libuv-gRPC" {
+ umbrella header "Libuv-gRPC-umbrella.h"
+ export *
+ module * { export * }
